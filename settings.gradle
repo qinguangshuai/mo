@@ -1,0 +1,1 @@
+include ':app', ':paixu', ':mo', ':gcz', ':gcz1', ':gcz2', ':gcz3', ':fresco', ':fresco1'
